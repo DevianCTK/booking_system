@@ -53,10 +53,6 @@ DB_PASSWORD=postgres
 DB_NAME=sj_assignment
 ```
 
-*(Do not commit your actual credentials to version control. Use `.env.example` as a template).*
-
----
-
 ## Quick Start
 
 You can use the following commands to get the application up and running quickly:
